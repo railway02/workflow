@@ -1,6 +1,6 @@
 # AI / CS Research Toolkit
 
-> 面向已有科研 Idea 的工具优先级，而不是纯“找灵感”。
+> 面向已有科研 Idea 的工具优先级，而不是纯“找灵感”。\n\n> 更完整的官方链接、开源项目说明和推荐组合见 **[PROJECTS.md](PROJECTS.md)**。
 
 ## 1. Literature & Prior Art
 
