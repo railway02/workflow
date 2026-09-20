@@ -239,7 +239,7 @@ Missing evidence
 
 完整清单见：
 
-[`docs/TOOLKIT.md`](docs/TOOLKIT.md)
+[`docs/TOOLKIT.md`](docs/TOOLKIT.md)\n\n详细项目与官方链接目录：\n\n[`docs/PROJECTS.md`](docs/PROJECTS.md)
 
 核心组合：
 
