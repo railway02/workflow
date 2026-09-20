@@ -50,6 +50,7 @@ ai-cs-research-idea-toolkit/
 ├── README.md
 ├── docs/
 │   ├── TOOLKIT.md
+│   ├── PROJECTS.md
 │   └── IDEA_AUDIT_PIPELINE.md
 ├── skills/
 │   ├── 01_problem_formulation.md
